@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZODiAKiM
 - 👀 I’m interested in ...front-end dev
-- 🌱 I’m currently learning ...javascript
+- 🌱 Proficient in javascript/react/express/node with mongo/atlas
 - 💞️ I’m looking to collaborate on ...javascript
 - 📫 How to reach me ...zadoqkim@gmail.com
 
